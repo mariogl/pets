@@ -1,0 +1,6 @@
+- GET /pets
+- GET /pets/:id
+- POST /pets/new-pet
+- PUT /pets/:id
+- PATCH /pets/:id
+- DELETE /pets/:id
